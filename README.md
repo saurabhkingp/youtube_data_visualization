@@ -19,7 +19,7 @@ You will need the following software installed on your machine:
 Clone the repository to your local machine and change into the project directory.
 
 ```
-git clone https://github.com/username/youtube-data-visualization.git
+git clone https://github.com/saurabhkingp/youtube_data_visualization.git
 cd youtube-data-visualization
 ```
 
