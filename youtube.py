@@ -82,7 +82,7 @@ def main():
     username = "MrBeast"  # e.g., "MrBeast"
     channel_id = "UCX6OQ3DkcsbYNE6H8uQQuVA"  # MrBeast's channel ID
     if username:
-        print(yt, username)
+        print('username', username)
     #     channel_id = get_channel_id_from_username(yt, username)
     # channel_view_count_by_year(yt, channel_id)
 
